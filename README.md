@@ -6,5 +6,5 @@
 4. train speakers
 5. indentification
 
-chmod +x trainUBM.sh all the 
-.sh files need to change mode at the first time
+chmod +x trainUBM.sh <br>
+all the .sh files need to change mode at the first time
